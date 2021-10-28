@@ -1,9 +1,9 @@
 const linksSocialMedia = {
     github: "ana-cf",
-    youtube: "UCdfXl051RO6Q3F4zV-oFHpg",
-    facebook: "anacf",
-    instagram: "anacf",
-    twitter: "anacf"
+    youtube: "channel/UCdfXl051RO6Q3F4zV-oFHpg",
+    facebook: "anacfffffffffff",
+    instagram: "anacfffffffff",
+    twitter: "anacfffffffffff"
 }
 
 
